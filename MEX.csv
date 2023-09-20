@@ -1,4 +1,4 @@
-fecha,USD/MXN,Tasas de interes,Reservas Internacionales,Cotizacion Brent ($/Barril),INDICE BURSATIL
+fecha,USD/MXN,Tasas de interes (%),Reservas Internacionales (Millones $),Cotización Brent ($/Barril),INDICE BURSATIL
 01/01/2010,13.1,0.045,90838.57216,77.93,32120.47
 02/01/2010,13.1,0.045,90841.12555,77.93,32120.48
 03/01/2010,13.1,0.045,90847.24138,77.93,32120.49
